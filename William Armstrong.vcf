@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.3.1//EN
+N:Armstrong;William;;;
+FN:William Armstrong
+item1.EMAIL;type=INTERNET;type=pref:goodlifewilliam@icloud.com
+item1.X-ABLabel:_$!<Other>!$_
+item2.EMAIL;type=INTERNET:LOVEholley8809
+item2.X-ABLabel:_$!<Other>!$_
+item3.EMAIL;type=INTERNET:williamholley8809@icloud.com
+item3.X-ABLabel:_$!<Other>!$_
+END:VCARD
